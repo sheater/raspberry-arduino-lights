@@ -1,0 +1,29 @@
+{
+  "colors": [
+    {
+      "color": "#ff0000"
+    },
+    {
+      "color": "#ff00ff"
+    },
+    {
+      "color": "#008080"
+    },
+    {
+      "color": "#00ffff"
+    },
+    {
+      "color": "#998080"
+    },
+    {
+      "color": "#808080"
+    },
+    {
+      "color": "#ffffff"
+    },
+    {
+      "color": "#000000"
+    }
+  ],
+  "presets": {}
+}

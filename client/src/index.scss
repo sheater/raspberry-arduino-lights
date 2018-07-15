@@ -1,0 +1,25 @@
+.ant-tabs-tabpane {
+	padding: 0 20px;
+}
+
+.color-avatar {
+	border: 5px solid #eee;
+	display: block;
+	width: 64px;
+	height: 64px;
+	border-radius: 100%;
+}
+
+.color-selector {
+	margin-bottom: 10px;
+
+	&__list {
+		display: flex;
+		min-height: 64px;
+		margin: 5px;
+	}
+}
+
+.wrapper {
+	margin: 20px;
+}

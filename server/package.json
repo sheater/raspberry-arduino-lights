@@ -1,0 +1,24 @@
+{
+  "name": "server",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon src/index.js",
+    "production": "node src/index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "graphql": "^0.12.3",
+    "koa": "^2.4.1",
+    "koa-graphql": "^0.7.3",
+    "koa-router": "^7.3.0",
+    "lowdb": "^1.0.0",
+    "serialport": "^6.0.4",
+    "yargs": "^12.0.1"
+  },
+  "devDependencies": {
+    "nodemon": "^1.14.3"
+  }
+}
